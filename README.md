@@ -1,5 +1,7 @@
 # 🎬 IMDb Sentiment Classification with Transformers
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/191eUE2hSgudijPSuD-NvCR23Ocznu5dj?usp=sharing)
+
 This project fine-tunes a pretrained Transformer (e.g., `distilbert-base-uncased`) on the IMDb movie reviews dataset to perform binary sentiment classification (positive or negative). It demonstrates transfer learning for NLP using the Hugging Face `transformers` library and PyTorch.
 
 ---
